@@ -55,19 +55,19 @@ ul {
 }
 
 .primeiro {
-    background-image: url(item1.png);
+    background-image: url(f11004064.png);
 }
 
 .segundo {
-    background-image: url(item2.png);
+    background-image: url(f11008576.png);
 }
 
 .terceiro {
-    background-image: url(item3.png);
+    background-image: url(f11012672.png);
 }
 
 .quarto {
-    background-image: url(item4.png);
+    background-image: url(f11017856.png);
 }
 
 @media screen and (max-width: 768px) {
